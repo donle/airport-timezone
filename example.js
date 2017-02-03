@@ -1,4 +1,4 @@
-var airport_tz = require('./timezone');
+var airport_tz = require('airport-tz');
 
 var IATA = 'NYC'
 

@@ -1,0 +1,27 @@
+{
+  "name": "airport-tz",
+  "version": "0.1.2",
+  "description": "The package is used to find the timezone based on airport IATA code.",
+  "main": "airport-tz.js",
+  "scripts": {
+    "test": "node example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donle/airport-timezone.git"
+  },
+  "keywords": [
+    "airport",
+    "IATA",
+    "timezone"
+  ],
+  "author": "Shaun Donle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donle/airport-timezone/issues"
+  },
+  "homepage": "https://github.com/donle/airport-timezone#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
