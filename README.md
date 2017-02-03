@@ -1,7 +1,7 @@
 # airport-timezone
 The package is used to look for timezone based on airport IATA codes.
 
-# Retreive Timezone
+### Retreive Timezone
 ```javascript
     
     var airport_tz = require('airport-timezone');
