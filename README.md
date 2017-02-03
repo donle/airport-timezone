@@ -4,7 +4,7 @@ The package is used to look for timezone based on airport IATA codes.
 # Retreive Timezone
 ```javascript
     
-    var airport_tz = require('./timezone');
+    var airport_tz = require('airport-timezone');
 
     var IATA = 'NYC'
     var timezone_obj = airport_tz.findWhere({ iata: IATA });
