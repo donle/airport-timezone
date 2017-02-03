@@ -1,6 +1,11 @@
 # airport-timezone
 The package is used to look for timezone based on airport IATA codes.
 
+### Install
+```
+npm install --save airport-tz
+```
+
 ### Retreive Timezone
 ```javascript
     
