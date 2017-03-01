@@ -1,6 +1,6 @@
 {
   "name": "airport-tz",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "The package is used to find the timezone based on airport IATA code.",
   "main": "airport-tz.js",
   "scripts": {
