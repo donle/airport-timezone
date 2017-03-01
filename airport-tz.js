@@ -1,7 +1,7 @@
-var fs = require('fs');
+var fs = require('jsonfile');
 
 
-var airports_tz = JSON.parse(fs.readFileSync(__dirname + '/airports.json', 'utf-8'));
+var airports_tz = fs.readFileSync(__dirname + '/airports.json');
 
 var airportObj = function(obj){
     this.obj = obj;
